@@ -277,14 +277,6 @@ body > #header .header-bar {
   transition: 200ms ease !important;
 }
 
-
-.btn-sm {
-  font-size: inherit;
-  font-weight: normal;
-  height: inherit;
-  line-height: inherit;
-}
-
 button.close {
   border: 0px none;
   font-family: sans-serif;
@@ -578,14 +570,6 @@ input.raw_input {
   margin: 0em 0.25em;
   -webkit-box-shadow: none;
   box-shadow: none;
-}
-
-audio,
-video {
-  display: inline;
-  vertical-align: middle;
-  align-content: center;
-  margin-left: 20%;
 }
 
 
