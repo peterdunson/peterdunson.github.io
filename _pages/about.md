@@ -5,7 +5,6 @@ permalink: /
 subtitle: >
   Mathematics & Computer Science, <a href="https://www.kenyon.edu/academics/departments-and-majors/mathematics-statistics/">Kenyon College</a> '27 ·
   Undergraduate Researcher, <a href="https://publichealth.jhu.edu/departments/biostatistics">JHU Biostatistics</a>
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -13,8 +12,7 @@ profile:
   more_info: >
     <p>Durham, NC</p>
     <p>peteradunsonn@gmail.com</p>
-
-selected_papers: false
+selected_papers: true
 social: true
 announcements:
   enabled: true
@@ -24,8 +22,8 @@ latest_posts:
   enabled: false
 ---
 
-I am a junior at Kenyon College studying Mathematics and Computer Science, and an undergraduate researcher in the Crainiceanu Lab at Johns Hopkins Biostatistics.
+I am a junior at Kenyon College studying Mathematics and Computer Science, and an undergraduate researcher working with Dr. Ciprian Crainiceanu at Johns Hopkins Biostatistics.
 
-My research focuses on Bayesian factor models and shrinkage priors. I am developing factorverse, an R package implementing Bayesian factor models via C++ -- coming soon.
+My research focuses on Bayesian factor models and shrinkage priors. I develop [factorverse](/projects/factorverse/), an R package for fitting a variety of linear Gaussian Bayesian factor models under different shrinkage and sparsity priors, with Gibbs samplers written in C++. It also provides simulation and diagnostic functions for evaluating fits.
 
 I am also a varsity swimmer at Kenyon College and a First Team All-American.
