@@ -205,7 +205,9 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include:
+  - "_pages"
+  - google0964ce794a3ce20b.html
 exclude:
   - al-folio-upgrade-report.md
   - bin/
