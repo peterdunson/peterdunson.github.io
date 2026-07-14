@@ -4,7 +4,7 @@ title: factorverse
 description: an R package for Bayesian factor models
 img: assets/img/factorverse_preview.jpg
 importance: 1
-category: work
+category: research
 related_publications: false
 ---
 
