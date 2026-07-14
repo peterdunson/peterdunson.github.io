@@ -24,6 +24,6 @@ latest_posts:
 
 I am a junior at Kenyon College studying Mathematics and Computer Science, and an undergraduate researcher working with Dr. Ciprian Crainiceanu at Johns Hopkins Biostatistics.
 
-My research focuses on Bayesian factor models and shrinkage priors. I develop [factorverse](/projects/factorverse/), an R package for fitting a variety of linear Gaussian Bayesian factor models under different shrinkage and sparsity priors, with Gibbs samplers written in C++. It also provides simulation and diagnostic functions for evaluating fits. I coauthored an accompanying [tutorial paper](https://arxiv.org/abs/2607.11819) with Dr. Crainiceanu comparing these methods.
+My research focuses on Bayesian factor models and shrinkage priors. I develop [factorverse](/projects/factorverse/), an R package for fitting a variety of linear Gaussian Bayesian factor models under different shrinkage and sparsity priors, with Gibbs samplers written in C++. It also provides simulation and diagnostic functions for evaluating fits. I coauthored an accompanying [tutorial paper](https://arxiv.org/abs/2607.11819) with Dr. Crainiceanu introducing these methods and their implementation.
 
 I am also a varsity swimmer at Kenyon College and a First Team All-American.
