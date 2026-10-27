@@ -1,6 +1,6 @@
 cv:
   name: Peter Dunson
-  label: Mathematics & Computer Science
+  label: Mathematics
   email: peteradunsonn@gmail.com
   location: Durham, NC
 
@@ -12,7 +12,7 @@ cv:
     Education:
       - institution: Kenyon College
         location: Gambier, OH
-        area: Mathematics & Computer Science
+        area: Mathematics
         studyType: B.A.
         start_date: 2022
         end_date: 2026
