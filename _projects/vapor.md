@@ -2,6 +2,7 @@
 layout: page
 title: VAPOR
 description: an R package for Bayesian VAR models with factor-structured precision matrices
+img: assets/img/vapor-preview.png
 importance: 0
 category: research
 related_publications: false
