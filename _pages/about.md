@@ -7,7 +7,7 @@ subtitle: >
   Undergraduate Researcher, <a href="https://publichealth.jhu.edu/departments/biostatistics">JHU Biostatistics</a>
 profile:
   align: right
-  image: prof_pic.jpg
+  image: peter_dunson.jpg
   image_circular: false
   more_info: >
     <p>Durham, NC</p>
