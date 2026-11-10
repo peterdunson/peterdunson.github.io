@@ -1,6 +1,20 @@
 ---
 ---
 
+@article{dunson2026vaporpaper,
+  abbr         = {arXiv},
+  title        = {Bayesian precision factor models for high-dimensional macroeconomic time series},
+  author       = {Dunson, Peter},
+  year         = {2026},
+  journal      = {arXiv preprint arXiv:2611.12368},
+  arxiv        = {2611.12368},
+  html         = {https://arxiv.org/abs/2611.12368},
+  code         = {https://github.com/peterdunson/vapor},
+  selected     = {true},
+  bibtex_show  = {true},
+  abstract     = {Series in a macroeconomic panel are almost all correlated with one another, which makes correlation a poor guide to which pairs are directly linked. For example, Treasury rates at different maturities are all highly correlated, yet a short and a long rate may be related only through the rates at maturities between them; similarly, sectors of the economy such as output, employment, prices, and interest rates may be related directly or only through other series. Both are questions about the inverse covariance matrix. Recovering it from quarterly data is difficult: contemporaneous dependence is entangled with temporal dynamics, the innovations remain densely dependent once those dynamics are removed, and the number of series is comparable to the number of quarters observed. We propose VAPOR (Vector Autoregressive Precision factOR), a Bayesian model that estimates vector autoregressive dynamics jointly with a factor-structured innovation precision matrix, inferring the partial correlations directly from the fitted precision rather than imposing a zero pattern. Applied to 100 quarterly FRED-QD series, VAPOR learns from the data that each Treasury rate is directly related only to the rates at adjacent maturities, places all 26 selected dependencies within a single FRED-QD group, and attains the lowest held-out prediction error among the estimators compared.},
+}
+
 @software{dunson2026vapor,
   abbr         = {R pkg},
   title        = {VAPOR: Bayesian Vector Autoregressive Precision Models},

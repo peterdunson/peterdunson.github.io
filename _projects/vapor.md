@@ -20,7 +20,7 @@ Here $$\Lambda$$ is a $$p \times k$$ loading matrix with a Dirichlet-Laplace pri
 
 ## Application
 
-Applied to 100 quarterly FRED-QD series, VAPOR finds that each Treasury rate is directly related only to the rates at adjacent maturities, places all 26 selected dependencies within a single FRED-QD group, and attains the lowest held-out prediction error among the estimators compared. Paper: "Bayesian precision factor models for high-dimensional macroeconomic time series" (preprint forthcoming).
+Applied to 100 quarterly FRED-QD series, VAPOR finds that each Treasury rate is directly related only to the rates at adjacent maturities, places all 26 selected dependencies within a single FRED-QD group, and attains the lowest held-out prediction error among the estimators compared. Paper: "Bayesian precision factor models for high-dimensional macroeconomic time series" ([arXiv preprint](https://arxiv.org/abs/2611.12368)).
 
 ## Usage
 
