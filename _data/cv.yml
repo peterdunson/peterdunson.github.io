@@ -22,3 +22,11 @@ cv:
         location: Baltimore, MD
         start_date: 2024
         summary: Research on Bayesian factor models under faculty supervision.
+
+    Publications:
+      - title: Bayesian precision factor models for high-dimensional macroeconomic time series
+        authors:
+          - '*Peter Dunson*'
+        url: https://arxiv.org/abs/2611.12368
+        journal: arXiv preprint arXiv:2611.12368
+        date: 2026-11
