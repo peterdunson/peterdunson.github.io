@@ -25,3 +25,8 @@ latest_posts:
 I am a senior at Kenyon College studying Mathematics, and an undergraduate researcher working with Dr. Ciprian Crainiceanu at Johns Hopkins Biostatistics.
 
 My research focuses on Bayesian factor models and shrinkage priors. I developed [factorverse](/projects/factorverse/), an R package for fitting a variety of linear Gaussian Bayesian factor models under different shrinkage and sparsity priors, with Gibbs samplers written in C++. It also provides simulation and diagnostic functions for evaluating fits. I coauthored an accompanying [tutorial paper](https://arxiv.org/abs/2607.11819) with Dr. Crainiceanu introducing these methods and their implementation. I also developed [VAPOR](/projects/vapor/), an R package for Bayesian vector autoregressions with factor-structured precision matrices, applied to high-dimensional macroeconomic time series, described in an [arXiv preprint](https://arxiv.org/abs/2611.12368).
+
+
+## CV
+
+View my [CV](/cv/) or [download the PDF](/assets/rendercv/rendercv_output/Peter_Dunson_CV.pdf).
